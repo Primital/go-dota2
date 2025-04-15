@@ -3,10 +3,10 @@ package dota2
 import (
 	"context"
 
-	"github.com/paralin/go-dota2/cso"
-	gcccm "github.com/paralin/go-dota2/protocol"
-	gcm "github.com/paralin/go-dota2/protocol"
-	gcmm "github.com/paralin/go-dota2/protocol"
+	"github.com/Primital/go-dota2/cso"
+	gcccm "github.com/Primital/go-dota2/protocol"
+	gcm "github.com/Primital/go-dota2/protocol"
+	gcmm "github.com/Primital/go-dota2/protocol"
 )
 
 // CreateLobby attempts to create a lobby with details.

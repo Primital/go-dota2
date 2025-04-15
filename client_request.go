@@ -4,10 +4,10 @@ import (
 	"context"
 	"sync"
 
-	"github.com/paralin/go-steam/protocol/gamecoordinator"
 	"github.com/golang/protobuf/proto"
+	"github.com/paralin/go-steam/protocol/gamecoordinator"
 
-	gcm "github.com/paralin/go-dota2/protocol"
+	gcm "github.com/Primital/go-dota2/protocol"
 )
 
 // responseHandler returns handled, and any error
